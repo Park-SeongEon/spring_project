@@ -9,6 +9,8 @@ public class BoardVO {
 	private String title;
 	private String content;
 	private String writer;
+	private Data regData;
+	private Data updateData;		
 }
 
 
